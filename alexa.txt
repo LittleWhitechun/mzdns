@@ -1,0 +1,14 @@
+1,google.com
+2,youtube.com
+3,baidu.com
+4,facebook.com
+5,bilibili.com
+6,qq.com
+7,zhihu.com
+8,instagram.com
+9,amazon.com
+10,twitter.com
+11,wikipedia.org
+12,yahoo.com
+13,whatsapp.com
+14,linkedin.com

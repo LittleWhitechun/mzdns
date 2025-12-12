@@ -1,0 +1,1 @@
+{"data":{"answers":[{"answer":"110.242.68.66","class":"IN","name":"baidu.com","ttl":222,"type":"A"},{"answer":"39.156.66.10","class":"IN","name":"baidu.com","ttl":222,"type":"A"}],"protocol":"tcp","resolver":"8.8.4.4:53"},"name":"baidu.com","status":"NOERROR","timestamp":"2023-04-07T15:55:39+08:00"}
